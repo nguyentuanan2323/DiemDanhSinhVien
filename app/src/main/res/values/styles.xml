@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--màu của thanh bar-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--màu của thanh tiêu đề-->
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <!--màu của button-->
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <!--màu của mấy nút textBox, radio-->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--màu nền của xổ-->
+        <item name="android:windowBackground">@color/mauNen</item>
+        <item name="android:colorBackgroundCacheHint">@color/mauNen</item>
+        <!--không có thanh tiêu đề-->
+        <item name="windowNoTitle">true</item>
+        <!--Toàn màn hình-->
+        <item name="android:windowFullscreen">false</item>
+        <!--màu chữ-->
+        <item name="android:textColorHint">#ffffffff</item>
+    </style>
+
+    <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@color/iron</item>
+        <item name="android:background">@color/primary</item>
+    </style>
+
+</resources>

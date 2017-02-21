@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "674193934689",
+    "firebase_url": "https://diemdanhsinhvien-81232.firebaseio.com",
+    "project_id": "diemdanhsinhvien-81232",
+    "storage_bucket": "diemdanhsinhvien-81232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674193934689:android:c7b716213f52c455",
+        "android_client_info": {
+          "package_name": "com.example.sinhvien.diemdanhsinhvien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674193934689-mrqv397k8kvmk12i3qi7u0lmsqni7qvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuqmy6OMPt8ogDlIzZRr5IiNWMeY98wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
